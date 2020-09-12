@@ -1,0 +1,6 @@
+---
+name: BrontoPanel
+version: 0.0.1
+main: BrontoPanel\BrontoPanel\Main
+api: 3.15.1
+...
