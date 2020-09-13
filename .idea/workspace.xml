@@ -1,15 +1,170 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ComposerSettings">
-    <execution />
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1ba2aa29-078d-43cd-8300-bcafe937f650" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BrontoPanel/BrontoServer/Network/Server/OfflineMessageHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BrontoPanel/BrontoServer/Network/Server/RaklibServer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BrontoPanel/BrontoServer/Network/Server/Session.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BrontoPanel/BrontoServer/Network/Server/SessionManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BrontoPanel/BrontoServer/Network/Server/TCPServerSocket.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BrontoPanel/BrontoServer/SecondThread.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BrontoPanel/BrontoServer/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/BrontoPanel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BrontoPanel.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BrontoPanel/BrontoPanel/Main.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/BrontoPanel/BrontoServer/Main.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <phar pharPath="C:\Users\jvigu\Desktop\composer.phar" interpreterId="a4f1bea2-5816-4148-9b8a-2f910858d64f" />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
     <include_path>
-      <path value="$USER_HOME$/Desktop/PocketMine-MP" />
+      <path value="$PROJECT_DIR$/../.." />
+      <path value="$PROJECT_DIR$/vendor/composer" />
     </include_path>
   </component>
+  <component name="ProjectId" id="1hQWJoKtPhwBlLKhY2mrUpyGduT" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/PocketMine-MP" />
-    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../start (2).cmd" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.composer" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="wadawdwa" type="BatchConfigurationType" factoryName="Batch">
+      <module name="BrontoPanel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../start (2).cmd" />
+      <option name="PARAMETERS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ComposerRunConfigurationType" factoryName="Composer Script">
+      <option name="pathToComposerJson" value="$PROJECT_DIR$/composer.json" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ba2aa29-078d-43cd-8300-bcafe937f650" name="Default Changelist" comment="" />
+      <created>1599943726967</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599943726967</updated>
+      <workItem from="1599943728040" duration="91000" />
+      <workItem from="1599943821952" duration="9308000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599952316527">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1599952316527" />
+    <state x="371" y="96" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1599953518013">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="96" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1280.680@0.0.1280.680" timestamp="1599953518013" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1599954635406">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1599954635406" />
+    <state width="1237" height="410" key="GridCell.Tab.0.bottom" timestamp="1599954984626">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="410" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1599954984626" />
+    <state width="1237" height="410" key="GridCell.Tab.0.center" timestamp="1599954984625">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="410" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1599954984625" />
+    <state width="1237" height="410" key="GridCell.Tab.0.left" timestamp="1599954984625">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="410" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1599954984625" />
+    <state width="1237" height="410" key="GridCell.Tab.0.right" timestamp="1599954984625">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="410" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1599954984625" />
+    <state x="258" y="48" key="NewPhpClassDialog" timestamp="1599953485066">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="258" y="48" key="NewPhpClassDialog/0.0.1280.680@0.0.1280.680" timestamp="1599953485066" />
+    <state x="477" y="260" key="NewPhpFileDialog" timestamp="1599943888227">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="477" y="260" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1599943888227" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1599954686498">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1599954686498" />
   </component>
 </project>

@@ -1,0 +1,15 @@
+{
+  "name": "vendor_name/BrontoServer",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "jvigu",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "ext-pthreads": "*"
+  }
+}
